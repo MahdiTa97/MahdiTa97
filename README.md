@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiTa97&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true" />
+</a>
+
 <!--
 **MahdiTa97/MahdiTa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
