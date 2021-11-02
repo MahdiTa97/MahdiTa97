@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiTa97&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true" />
 </a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/MahdiTa97/MahdiTa97/blob/master/devcard.svg" width="400" alt="Mahdi Taala's Dev Card"/></a>
 
 
 <!--
