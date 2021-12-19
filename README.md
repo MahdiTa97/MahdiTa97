@@ -5,9 +5,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiTa97&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true" />
 </a>
 
-<a href="https://app.daily.dev/mahdi_ta97"><img src="https://github.com/MahdiTa97/MahdiTa97/blob/main/devcard.svg" width="400" alt="Mahdi Taala's Dev Card"/></a>
-
-
 <!--
 **MahdiTa97/MahdiTa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
