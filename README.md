@@ -1,9 +1,28 @@
-### Hi there 👋
+# "Hi, I'm Mahdi! :call_me_hand:"
+<br/>
+   <br/>
+<div align="center">
+  <div>
+    <a href="https://www.linkedin.com/in/mahditaala/">
+     <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>
+    </a>
+    <a href="https://stackoverflow.com/users/7044123/mahdi-taala">
+     <img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>
+    </a>
+  </div>
+  <br/>
+   <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiTa97&theme=cobalt2&show_icons=true&hide_border=true&include_all_commits=true" />
+    <br/>
+    <br/>
 
+  <div>
+     <img src='https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahdita97&theme=vue'>
+  </div>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiTa97&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true" />
-</a>
+----------
+My Dotfiles [Link](https://github.com/MahdiTa97/dotfiles)
 
 <!--
 **MahdiTa97/MahdiTa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
