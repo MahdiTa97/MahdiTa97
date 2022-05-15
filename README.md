@@ -24,6 +24,8 @@
 ----------
 My Dotfiles [Link](https://github.com/MahdiTa97/dotfiles)
 
+My Gist Profile [Link](https://gist.github.com/MahdiTa97)
+
 <!--
 **MahdiTa97/MahdiTa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
