@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='github-header-image.png' />
+  <img src='github-header-image.png' alt="I'm Mahdi, a front-end developer, specialized in React"  />
   <br/>
   <br/>
   <br/>
