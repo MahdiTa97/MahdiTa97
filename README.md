@@ -9,7 +9,7 @@
 Hi, I'm Mahdi! 👋 , a frontend developer, specialized in React and TypeSript.
 
 ## I’m currently working on ...
-- **SportMob.com**: NextJs / React / Nx / Storybook / AWS Tailwind / daisyUI
+- **SportMob.com**: NextJs / React / Nx / Storybook / AWS / Tailwind / daisyUI
 - **Paknevis**: PReact / Webpack / ChromeExtension / Tailwind / daisyUI 
 
 You can:
