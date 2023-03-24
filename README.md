@@ -1,7 +1,8 @@
 <p align="center">
   <samp>
     <a href="https://www.linkedin.com/in/mahditaala/">LinkedIn</a> .
-    <a href="https://stackoverflow.com/users/7044123/mahdi-taala">StackOverflow</a>
+    <a href="https://stackoverflow.com/users/7044123/mahdi-taala">StackOverflow</a> .
+    <a href="https://medium.com/@taala.mahdy">Medium</a>
   </samp>
 </p>
 
