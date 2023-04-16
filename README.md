@@ -16,12 +16,12 @@ I'm deeply passionate about staying up-to-date with the latest web development t
 
 If you're interested in connecting or learning more about my work, please feel free to reach out at taala.mahdy@gmail.com.
 
-## I’m currently working on ...
+<!-- ## I’m currently working on ...
 - **Paknevis**: PReact / Webpack / ChromeExtension / Tailwind / daisyUI 
 
 You can:
 
-Hire me: taala.mahdy@gmail.com
+Hire me: taala.mahdy@gmail.com -->
 
 ----------
 My Dotfiles [Link](https://github.com/MahdiTa97/dotfiles)
