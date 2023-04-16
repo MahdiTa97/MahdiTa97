@@ -7,7 +7,12 @@
 </p>
 
 
-Hi, I'm Mahdi! 👋 , a frontend developer, specialized in React and TypeScript.
+Hi, I'm Mahdi! 👋 , an experienced **Front-End Developer** with a passion for creating intuitive, user-friendly interfaces that enhance the online experience.
+I've spent over **5** years developing expertise in **JavaScript**, **TypeScript**, **ReactJS**, and **NextJS**.
+Currently, I'm working on exciting projects like a personal research assistant tool and an AI-based Persian writing assistant.
+I'm deeply passionate about staying up-to-date with the latest web development technologies and am always seeking out new opportunities to learn and grow.
+
+If you're interested in connecting or learning more about my work, please feel free to reach out at taala.mahdy@gmail.com.
 
 ## I’m currently working on ...
 - **Paknevis**: PReact / Webpack / ChromeExtension / Tailwind / daisyUI 
