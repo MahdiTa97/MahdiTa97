@@ -7,7 +7,7 @@
 </p>
 
 
-Hi, I'm Mahdi! 👋 , an experienced **Front-End Developer** with a passion for creating intuitive, user-friendly interfaces that enhance the online experience.
+Hi, I'm Mahdi! 👋 **Front-End Developer** with a passion for creating intuitive, user-friendly interfaces that enhance the online experience.
 
 If you're interested in connecting or learning more about my work, please feel free to reach out at taala.mahdy@gmail.com.
 
