@@ -13,8 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahditaala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
-  <a href="https://twitter.com/❗❗"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="22" /></a>
-  <a href="mailto:❗❗"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22" /></a>
+  <a href="mailto:taala.mahdy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22" /></a>
 </p>
 
 ---
@@ -75,9 +74,7 @@ Work from my time at Miaad Team — the front-end stack and tooling behind their
 
 - 🔭 Working as a **freelance frontend engineer** — open to remote contracts
 - 🛠️ Deep in **React, TypeScript, monorepos** and **build performance**
-- 🌱 Learning ❗❗
-- 💬 Ask me about ❗❗
-- 📫 Reach me at **❗❗**
+- 📫 Reach me at **taala.mahdy@gmail.com**
 
 ## Writing
 
