@@ -84,11 +84,6 @@ obvious in the moment and turned out to be wrong later.
 <!-- TODO: point this at your blog once the first post is published -->
 📝 [Read the blog](https://❗❗)
 
-## Outside the editor
-
-<!-- TODO: replace or remove. devcard.svg refreshes daily via CI. -->
-<img src="https://raw.githubusercontent.com/MahdiTa97/MahdiTa97/main/devcard.svg" alt="Mahdi's daily.dev devcard" width="100%" />
-
 ---
 
 <sub>
